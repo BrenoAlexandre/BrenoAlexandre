@@ -1,16 +1,28 @@
-### Hi there 👋
+## Oi, eu sou o Breno
+#### but you can also call me Brian
+<br />
 
-<!--
-**BrenoAlexandre/BrenoAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📒 I'm studying ReactJs and seeking to work as a web developer.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/brenoalexandre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoAlexandre&show_icons=true&count_private=true&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAlexandre&layout=compact&show_icons=true&count_private=true&theme=chartreuse-dark" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+<br />
+-💬 Want to chat about a project?
+
+ <div>
+  <a href="https://www.instagram.com/breno_o_alexandre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/breno-alexandre/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:bdebreno19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div
+   
+<br />
+-🎶 Bora ouvir uma Fresno?
+<div>
+  <a href="https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</div>
