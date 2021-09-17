@@ -3,7 +3,7 @@
 <br />
 <div class='container'>
   <div class='text'>
-    -📒 I'm studying ReactJs and Meteor <br />
+    -📒 I'm studying ReactJs <br />
     -🛠️ Working as a junior full-stack developer.
   </div>
   <div class='extra'>
