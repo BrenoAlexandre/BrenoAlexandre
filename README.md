@@ -7,6 +7,8 @@
     -🛠️ Working as a junior full-stack developer.
   </div>
   <div class='extra'>
+    Texto Teste
+    \n testando coisas
   </div>
 </div>
 
@@ -34,20 +36,3 @@
 <div>
   <a href="https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </div>
-   
-<style>
-  .container{
-    width: 80%;
-    margin: auto;
-    padding: 10px;
-  },
-  
-  .text{
-    width: 15%;
-    float: left;
-  },
-  
-  .extra{
-    margin-left: 15%;
-  }
-</style>
