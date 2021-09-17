@@ -2,7 +2,10 @@
 #### but you can also call me Brian
 <br />
 
--📒 I'm studying ReactJs and seeking to work as a web developer.
+-📒 I'm studying ReactJs and Meteor
+-🛠️ Working as a junior full-stack developer.
+
+<br />
 
 <div>
   <a href="https://github.com/brenoalexandre">
