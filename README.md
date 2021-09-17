@@ -2,7 +2,7 @@
 #### but you can also call me Brian
 <br />
 
--📒 I'm studying ReactJs and Meteor
+-📒 I'm studying ReactJs and Meteor <br />
 -🛠️ Working as a junior full-stack developer.
 
 <br />
