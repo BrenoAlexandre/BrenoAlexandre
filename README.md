@@ -7,8 +7,7 @@
     -🛠️ Working as a junior full-stack developer.
   </div>
   <div class='extra'>
-    Texto Teste
-    \n testando coisas
+
   </div>
 </div>
 
