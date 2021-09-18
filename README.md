@@ -1,13 +1,13 @@
 ## Oi, eu sou o Breno
-#### but you can also call me Brian
-<br />
+#### But you can call me Brian
+<br>
 <img src='inosuke.png' width="125px" align="right">
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
     -📒 I'm studying ReactJs.<br>
-    -🛠️ Working as a junior full-stack developer.<br>
+    -🛠️ Working as a junior web developer.<br>
     -🌎 Interested on all technologies.<br>
-    -.
+    -😄 Looking forward to meet new people.
   </div>
   <div class='extra'>
     
