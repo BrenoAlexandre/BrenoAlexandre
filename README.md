@@ -1,16 +1,20 @@
 ## Oi, eu sou o Breno
 #### but you can also call me Brian
 <br />
-<div class='container'>
-  <div class='text'>
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49632479-6972-491e-b29a-2a635ece1ffe/ddeeqc8-40ddf4e5-7370-441f-8deb-490a837e5a48.png/v1/fill/w_826,h_967,strp/chibi_inosuke_by_exceru_karina_ddeeqc8-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzQ5NjMyNDc5LTY5NzItNDkxZS1iMjlhLTJhNjM1ZWNlMWZmZVwvZGRlZXFjOC00MGRkZjRlNS03MzcwLTQ0MWYtOGRlYi00OTBhODM3ZTVhNDgucG5nIiwid2lkdGgiOiI8PTg1NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.enNJeNSNTLyxJiqwFmMRAxU1HVq21Is8f1pTvuV5_t8' min-width="150px" max-width="150px" width="125px" align="right">
+<div class='aboutMe' align='left'>
+  <div class='EMOtes'>
     -📒 I'm studying ReactJs <br />
     -🛠️ Working as a junior full-stack developer.
   </div>
   <div class='extra'>
-
+    
   </div>
 </div>
 
+<br />
+<br />
+<br />
 <br />
 
 <div>
