@@ -6,6 +6,8 @@
   <div class='EMOtes'>
     -📒 I'm studying ReactJs <br />
     -🛠️ Working as a junior full-stack developer.
+    -🌎 Interested on all technologies
+    -
   </div>
   <div class='extra'>
     
