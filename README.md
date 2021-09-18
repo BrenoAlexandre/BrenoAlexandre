@@ -4,17 +4,17 @@
 <img src='inosuke.png' min-width="150px" max-width="150px" width="125px" align="right">
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
-    -📒 I'm studying ReactJs <br />
-    -🛠️ Working as a junior full-stack developer.
-    -🌎 Interested on all technologies
-    -
+    -📒 I'm studying ReactJs.<br>
+    -🛠️ Working as a junior full-stack developer.<br>
+    -🌎 Interested on all technologies.<br>
+    -.
   </div>
   <div class='extra'>
     
   </div>
 </div>
 
-<br/><br/><br/><br/>
+<br><br><br>
 
 <div align='center'>
   <a href="https://github.com/brenoalexandre">
@@ -25,7 +25,7 @@
 
   ##
   
-<br />
+<br>
 
 -💬 Want to chat about a project?
 <div>
@@ -34,7 +34,7 @@
   <a href="mailto:bdebreno19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
    
-<br />
+<br>
   
 -🎶 Bora ouvir uma Fresno?
 <div>
