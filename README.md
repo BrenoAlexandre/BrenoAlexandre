@@ -1,7 +1,7 @@
 ## Oi, eu sou o Breno
 #### but you can also call me Brian
 <br />
-<img src='inosuke.png' min-width="100px" max-width="150px" width="125px" align="right">
+<img src='inosuke.png' min-width="100px" max-width="150px" width="100px" align="right">
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
     -📒 I'm studying ReactJs.<br>
