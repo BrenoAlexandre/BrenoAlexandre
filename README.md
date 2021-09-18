@@ -12,10 +12,7 @@
   </div>
 </div>
 
-<br />
-<br />
-<br />
-<br />
+<br /> <br /> <br /> <br />
 
 <div>
   <a href="https://github.com/brenoalexandre">
@@ -35,7 +32,7 @@
   <a href="mailto:bdebreno19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div
    
-<br />
+<br /><br />
 -🎶 Bora ouvir uma Fresno?
 <div>
   <a href="https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
