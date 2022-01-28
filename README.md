@@ -7,7 +7,6 @@
   <div class='EMOtes'>
     -📒 I'm studying ReactJs.<br>
     -🛠️ Working as a junior web developer.<br>
-    -🌎 Interested on all technologies.<br>
     -😄 Looking forward to meet new people.
   </div>
   
