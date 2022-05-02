@@ -5,7 +5,7 @@
 <img src='inosuke.png' width="125px" align="right">
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
-    -📒 I'm studying ReactJs.<br>
+    -📒 I'm studying ReactTs.<br>
     -🛠️ Working as a junior web developer.<br>
     -😄 Looking forward to meet new people.
   </div>
