@@ -6,7 +6,7 @@
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
     -📒 I'm studying ReactTs.<br>
-    -🛠️ Working as a junior web developer.<br>
+    -🛠️ Working as a trainee web developer.<br>
     -😄 Looking forward to meet new people.
   </div>
   
