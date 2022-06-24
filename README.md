@@ -2,7 +2,6 @@
 #### But you can call me Brian
 <br>
 
-<img src='inosuke.png' width="125px" align="right">
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
     -📒 I'm studying ReactTs.<br>
