@@ -6,9 +6,8 @@
   <div class='EMOtes'>
     -📒 I'm currently specializing in ReactTs.<br>
     -🛠️ Working as a junior software engineer.<br>
-    -⚒ Waiting patienlty for the uprising.<br>
+    -⚒ Waiting patienlty for the uprising.
   </div>
-  
 </div>
 
 <br>
