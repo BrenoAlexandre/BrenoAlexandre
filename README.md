@@ -4,9 +4,9 @@
 
 <div class='aboutMe' align='left'>
   <div class='EMOtes'>
-    -📒 I'm studying ReactTs.<br>
-    -🛠️ Working as a trainee web developer.<br>
-    -😄 Looking forward to meet new people.
+    -📒 I'm currently specializing in ReactTs.<br>
+    -🛠️ Working as a junior software engineer.<br>
+    -⚒ Waiting patienlty for the uprising.<br>
   </div>
   
 </div>
