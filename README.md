@@ -9,6 +9,7 @@
     -⚒ Waiting patienlty for the uprising.
   </div>
 </div>
+
   ##
    
 <br>
